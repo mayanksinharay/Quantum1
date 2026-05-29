@@ -107,7 +107,7 @@ Run the cells sequentially to explore the quantum computing examples.
 ## Project Structure
 
 ```plaintext
-├── Untitled.ipynb
+├── Quantum1.ipynb
 ├── README.md
 └── requirements.txt
 ```
