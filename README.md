@@ -97,7 +97,7 @@ jupyter notebook
 Open:
 
 ```bash
-Untitled.ipynb
+Quantum1.ipynb
 ```
 
 Run the cells sequentially to explore the quantum computing examples.
