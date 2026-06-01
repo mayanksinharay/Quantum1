@@ -70,8 +70,8 @@ Implementation and visualization of common quantum gates:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/mayanksinharay/Quantum1.git
+cd Quantum1
 ```
 
 Install the required dependencies:
